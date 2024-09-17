@@ -13,7 +13,7 @@ Please install `gifski` and `png` package and try again.
 
 ### Final Output (GIF):
 
-![GIF](gganim.gif)
+![GIF](gganim_miles.gif)
 
 ### Codes
 
