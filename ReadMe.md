@@ -27,3 +27,8 @@ Please install `gifski` and `png` package and try again.
 
 + `gganimate`
 + `tidyverse`
+
+
+### Data Source:
+
+The origin input data (`csv`) has been downloaded from [opendata.maryland.gov/Transportation](https://opendata.maryland.gov/Transportation/Maryland-Annual-Vehicle-Miles-of-Travel/exua-btti/about_data)
