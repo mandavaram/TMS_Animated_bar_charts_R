@@ -71,5 +71,5 @@ loaded via a namespace (and not attached):
 
 ### Data Source:
 
-The origin input data (`csv`) has been downloaded from [databank.worldbank.org](https://databank.worldbank.org/data/reports.aspx?source=2&series=NY.GDP.MKTP.CD&country=#)
+The origin input data (`csv`) has been downloaded from [opendata.maryland.gov/Transportation](https://opendata.maryland.gov/Transportation/Maryland-Annual-Vehicle-Miles-of-Travel/exua-btti/about_data)
 
